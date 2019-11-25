@@ -1,0 +1,10 @@
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\bin\Debug\CSVテスト.exe.config
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\bin\Debug\CSVテスト.exe
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\bin\Debug\CSVテスト.pdb
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CSVテスト.csprojAssemblyReference.cache
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CSVテスト.Properties.Resources.resources
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CSVテスト.csproj.GenerateResource.cache
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CSVテスト.csproj.CoreCompileInputs.cache
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CSVテスト.exe
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CSVテスト.pdb
+C:\Users\anzhir\source\repos\CSVテスト\CSVテスト\obj\Debug\CsvTest.Form1.resources
